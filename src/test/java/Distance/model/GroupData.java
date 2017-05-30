@@ -1,4 +1,4 @@
-package Distance;
+package Distance.model;
 
 public class GroupData {
     private final String name;
